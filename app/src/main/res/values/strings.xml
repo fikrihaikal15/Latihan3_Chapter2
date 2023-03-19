@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Latihan3_Chapter 2</string>
+    <string name="selamatDatang">Hallo, Selamat Datang</string>
+    <string name="login">LOGIN</string>
+    <string name="username">Username</string>
+    <string name="password">Paswword</string>
+    <string name="signUp">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="ulangiPassword">Ulangi Password</string>
+    <string name="Daftar">Daftar</string>
+    <string name="pilihBahasa">Pilih Bahasa</string>
+
+</resources>

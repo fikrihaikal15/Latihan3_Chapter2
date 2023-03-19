@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Latihan3_Chapter 2</string>
+    <string name="selamatDatang">Hallo, willkommen</string>
+    <string name="login">ANMELDUNG</string>
+    <string name="username">Benutzernamen</string>
+    <string name="password">Passwörter</string>
+    <string name="signUp">Anmeldung</string>
+    <string name="name">Name</string>
+    <string name="ulangiPassword">Passwort wiederholen</string>
+    <string name="Daftar">Aufführen</string>
+    <string name="pilihBahasa">Wähle eine Sprache</string>
+</resources>
